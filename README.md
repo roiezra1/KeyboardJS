@@ -2,7 +2,7 @@
 KeyboardJS
 ==========
 
-[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=<badge_key>)](https://www.browserstack.com/automate/public-build/<badge_key>)
+[![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=DDuXJspqh8k2xi91FE5j)](https://www.browserstack.com/automate/public-build/DDuXJspqh8k2xi91FE5j)
 [ ![Build Status](https://travis-ci.org/RobertWHurst/KeyboardJS.svg?branch=master) ](https://travis-ci.org/RobertWHurst/KeyboardJS)
 [ ![NPM Version](http://img.shields.io/npm/v/keyboardjs.svg?style=flat) ](https://www.npmjs.org/package/keyboardjs)
 [ ![Downloads This Week](http://img.shields.io/npm/dm/keyboardjs.svg?style=flat) ](https://www.npmjs.org/package/keyboardjs)
